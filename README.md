@@ -44,3 +44,5 @@ By predicting the Progress Reports, we can position ourselves before the market.
 * [Windy](https://www.windy.com/) - Data on wind conditions
 
 * [USDA National Crop Progress Publications](https://www.nass.usda.gov/Publications/National_Crop_Progress/)
+
+* [Weather Forecasting 7 days out has 80% accuracy](https://scijinks.gov/forecast-reliability/)
